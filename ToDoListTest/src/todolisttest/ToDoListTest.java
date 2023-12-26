@@ -8,9 +8,6 @@ import java.util.Scanner;
 //Different methods are then done on those text files or tasks 
 
 
-/*THESE TEXT FILES ARE BEING SAVED IN "C:\\Users\\Admin\\Documents\\NetBeansProjects\\ToDoListTest" IN MY PC.
-IF FILE PATH IS DIFFERENT ON YOUR PC, PLEASE ADDRESS THIS ISSUE ACCORDINGLY*/
-
 public class ToDoListTest {
 
    
